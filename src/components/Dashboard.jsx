@@ -27,7 +27,7 @@ function Dashboard() {
         <Card icon={<FaShoppingCart />} title="Orders" value="140" />
         <Card icon={<FaBox />} title="Products" value="120" />
         <Card icon={<FaUsers />} title="Users" value="30" />
-        <Card icon={<FaCog />} title="Settings" value="11" />
+        <Card icon={<FaCog />} title="Settings" value="2" />
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
         <div className="bg-white p-4 dark:bg-gray-800 rounded-lg shadow-md">
